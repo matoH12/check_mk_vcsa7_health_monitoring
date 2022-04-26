@@ -11,9 +11,22 @@
 - Read data from vmware vcsa via REST API
 - Read status of health from VCSA
 - Read status of services from VCSA
-- Read uptime value from vcsa
+- Read uptime value from VCSA
 - Read available update VCSA
 - supported and developed vmware vcsa 7 
+
+Check read this data:
+ - Service run status
+ - applmgmt health
+ - database storage health
+ - mem health
+ - load health
+ - softwarepackages health
+ - storage health
+ - swap health
+ - system status
+ - Uptime
+ - update status
 
 
 
