@@ -49,6 +49,8 @@ Example grph
 ![alt text](https://github.com/matoH12/check_mk_vcsa7_health_monitoring/blob/main/check-mk-vcsa7-health-1.PNG?raw=true)
 
 
+Previous version and author of check https://exchange.checkmk.com/p/vmware-vcsa-services-healthstatus-api-monitoring
+
 ## License
 
 MIT
