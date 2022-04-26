@@ -1,5 +1,5 @@
 # check_mk_vcsa7_health_monitoring
-## Check_mk plugin for vmware vcsa 7 status
+
 
 [![N|Solid](https://tribe29.com/wp-content/uploads/2019/04/tribe29_logo2.svg)](https://checkmk.com/)
 
