@@ -44,7 +44,7 @@ Install check_mk plugin mpk on monitoring server
 
 
 
-Example grph
+Example graph
 
 ![alt text](https://github.com/matoH12/check_mk_vcsa7_health_monitoring/blob/main/check-mk-vcsa7-health-1.PNG?raw=true)
 
